@@ -1,2 +1,2 @@
 # aesd-final-project-vidhya-ashwin
-Authentication system using raspberry Pi
+Authorization system using raspberry Pi
